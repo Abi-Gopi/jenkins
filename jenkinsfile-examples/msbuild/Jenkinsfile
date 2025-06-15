@@ -9,4 +9,7 @@ node {
 	stage 'Archive'
 		archive 'ProjectName/bin/Release/**'
 
+	stage 'display'
+	        echo "end"
+
 }
