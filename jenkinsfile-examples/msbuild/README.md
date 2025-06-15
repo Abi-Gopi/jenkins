@@ -1,4 +1,4 @@
-# Synopsis
+# Synopsis Sample
 Demonstrate an example of a Jenkinsfile to build and archive a Visual Studio solution built with MSBuild
 
 # Background
